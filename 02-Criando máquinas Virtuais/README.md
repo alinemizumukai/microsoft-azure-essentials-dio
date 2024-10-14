@@ -41,7 +41,7 @@ Para criar uma máquina virtual é necessário configurar os alguns parâmetros 
 - Zona de disponibilidade: devem ser selecionadas quando a opção de disponibilidade selecionada for igual a Zona de disponibilidade.
 - Tipo de segurança: é possível configurar os recursos de segurança ou deixar como Standard.
 - Imagem: selecione o sistema operacional desejado (por exemplo, Windows Server, Ubuntu). A escolha do sistema operacional pode influenciar o preço de computação por hora, pois o Azure inclui o custo da licença do sistema operacional no preço.
-- Arquitetura de VMs: x32, x64 etc.
+- Arquitetura de VMs: exemplo: x64.
 - Tamanho: selecione a combinação apropriada de computação, memória e armazenamento para o que deseja fazer.
 - Tipo de autenticação: escolha entre senha ou chave SSH.
 - Nome de Usuário: insira um nome de usuário.
